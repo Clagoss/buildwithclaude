@@ -3937,6 +3937,35 @@
         "repo": "whereisdw/lidnight-claude-plugin",
         "sha": "f54adf0da9c4fe31ff24631a3d7d0e3e8890dda2"
       }
+    },
+    {
+      "name": "lagos-diseno-es",
+      "description": "Three Claude Code skills for designers who build in Spanish: UI copy review in neutral Spanish with tú (voseo, vosotros, leftover English, title case, missing ¿¡), WCAG 2.2 contrast measured on the project's color tokens in light and dark mode with the nearest passing color, and a basic SEO pass over a built or live site. Three bundled Node 18+ scripts that read files and write only a report when passed --json; seo-basico fetches only the URL the user gives. No hooks, no MCP servers, no settings.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Carlos Lagos",
+        "url": "https://github.com/Clagoss"
+      },
+      "homepage": "https://carloslagos.cl/guias/",
+      "repository": "https://github.com/Clagoss/claude-code-para-disenadores",
+      "license": "MIT",
+      "keywords": [
+        "design",
+        "spanish",
+        "ux-writing",
+        "accessibility",
+        "wcag",
+        "contrast",
+        "design-tokens",
+        "seo"
+      ],
+      "category": "creative",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Clagoss/claude-code-para-disenadores.git",
+        "path": "plugins/lagos-diseno-es",
+        "sha": "a380ad73d13dc9068d200cba3f71abdd32c4054a"
+      }
     }
   ]
 }
